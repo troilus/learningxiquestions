@@ -1,13 +1,10 @@
 # learningxiquestions
-xuexiqiangguo 学习强国 挑战答题 题库
-# xuexiqiangguo_tiku
-
-**学习强国 挑战答题 题库**
+**xuexiqiangguo 学习强国 挑战答题 题库**
 
 **按Ctrl+F搜索**
 
-**欢迎更新题库题库**
-
+**欢迎更新题库**
+------
 
 我国的民族自治地方 :自治区、自治州、自治县
 
